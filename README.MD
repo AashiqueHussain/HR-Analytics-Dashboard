@@ -62,6 +62,7 @@ Users can easily filter and sort based on any column to view specific employee g
 
 ## 🗂️ Repository Structure
 
+<<<<<<< HEAD
 📁 HR-Analytics-Dashboard/
 │
 ├── 📄 README.md → Project documentation (this file)
@@ -69,6 +70,9 @@ Users can easily filter and sort based on any column to view specific employee g
 ├── 📈 HR_Data.csv → Dataset used for analysis
 ├── 🖼️ HR_Summary.png → Screenshot of the dashboard 
 
+=======
+![Repository Structure](./Repository.png)
+>>>>>>> 435bcde19feec83bc08d7fd8b026d15d43464bc1
 
 ---
 
