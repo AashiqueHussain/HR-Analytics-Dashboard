@@ -60,9 +60,39 @@ Users can easily filter and sort based on any column to view specific employee g
 
 ---
 
+## 🗂️ Repository Structure
+
+📁 HR-Analytics-Dashboard/
+│
+├── 📄 README.md → Project documentation (this file)
+├── 📊 HR_Dashboard.twbx → Tableau packaged workbook
+├── 📈 HR_Data.xlsx → Dataset used for analysis
+├── 🖼️ HR_Summary.png → Screenshot of the dashboard (above)
+└── 📜 LICENSE → (optional) License for open-source use
+
+---
+
+## 🚀 How to Use
+
+1. **Clone or download** this repository:  
+   ```bash
+   git clone https://github.com/<your-username>/HR-Analytics-Dashboard.git
+2. Open the .twbx file in Tableau Desktop.
+3. Explore interactive filters, graphs, and insights across all sections.
+
+---
+
 ## 💡 Key Insights
 
 - 89% of employees are currently active across all departments.
 - Master’s and PhD holders show the highest performance ratings.
 - Salary increases with education level and experience (age).
 - New York HQ employs around 70% of the total workforce.
+
+---
+
+## 👤 Author
+
+Md Aashique Hussain
+🎓 B.Tech in Computer Science | Aspiring Data Analyst & ML Engineer
+🔗 LinkedIn Profile
