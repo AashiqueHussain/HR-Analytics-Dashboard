@@ -91,4 +91,4 @@ Users can easily filter and sort based on any column to view specific employee g
 Md Aashique Hussain
 🎓 B.Tech in Computer Science | Aspiring Data Analyst & ML Engineer
 
-🔗 LinkedIn(https://www.linkedin.com/in/md-aashique-hussain-83714b256/)
+🔗 🔗 [LinkedIn](https://www.linkedin.com/in/md-aashique-hussain-83714b256/)
