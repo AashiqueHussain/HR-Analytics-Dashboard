@@ -62,7 +62,7 @@ Users can easily filter and sort based on any column to view specific employee g
 
 ## 🗂️ Repository Structure
 
-(./Repository.png)
+![Repo Structure](./Repository.png)
 
 
 
