@@ -66,9 +66,9 @@ Users can easily filter and sort based on any column to view specific employee g
 │
 ├── 📄 README.md → Project documentation (this file)
 ├── 📊 HR_Dashboard.twbx → Tableau packaged workbook
-├── 📈 HR_Data.xlsx → Dataset used for analysis
-├── 🖼️ HR_Summary.png → Screenshot of the dashboard (above)
-└── 📜 LICENSE → (optional) License for open-source use
+├── 📈 HR_Data.csv → Dataset used for analysis
+├── 🖼️ HR_Summary.png → Screenshot of the dashboard 
+
 
 ---
 
