@@ -1,6 +1,6 @@
 # 🧩 HR Analytics Dashboard | Tableau
 
-![HR Dashboard Overview](HR_Summary.png)
+![HR Dashboard Overview](./HR_Summary.png)
 
 ---
 
