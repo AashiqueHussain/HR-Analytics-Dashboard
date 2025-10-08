@@ -2,6 +2,7 @@
 
 ![HR Dashboard Overview](./HR_Summary.png)
 
+https://public.tableau.com/app/profile/md.aashique.hussain/viz/HumanResourcesDashboard_17599209292090/HRSummary
 ---
 
 ## 📖 Project Description
