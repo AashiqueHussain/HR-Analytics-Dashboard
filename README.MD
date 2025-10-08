@@ -61,9 +61,9 @@ Users can easily filter and sort based on any column to view specific employee g
 ---
 
 ## 🗂️ Repository Structure
-'''
+
 📁 HR-Analytics-Dashboard/
-│
+│'''
 ├── 📄 README.md → Project documentation (this file)
 ├── 📊 HR_Dashboard.twbx → Tableau packaged workbook
 ├── 📈 HR_Data.xlsx → Dataset used for analysis
