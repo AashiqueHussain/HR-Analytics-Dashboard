@@ -2,7 +2,7 @@
 
 ![HR Dashboard Overview](./HR_Summary.png)
 
-🔗 [Tableau Public](https://public.tableau.com/app/profile/md.aashique.hussain/viz/HumanResourcesDashboard_17599209292090/HRSummary)
+🔗 [HR Dashboard](https://public.tableau.com/app/profile/md.aashique.hussain/viz/HumanResourcesDashboard_17599209292090/HRSummary)
 
 ---
 
