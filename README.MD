@@ -76,7 +76,7 @@ Users can easily filter and sort based on any column to view specific employee g
 
 1. **Clone or download** this repository:  
    ```bash
-   git clone https://github.com/<your-username>/HR-Analytics-Dashboard.git
+   git clone https://github.com/<your-username>/HR-Analytics-Dashboard.git 
 2. Open the .twbx file in Tableau Desktop.
 3. Explore interactive filters, graphs, and insights across all sections.
 
